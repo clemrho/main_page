@@ -184,7 +184,7 @@ params:
           name: "View credentials"
           url: "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:4df1d9c8-1d31-34e2-baea-e2927e11e890"
         content: |
-        During my internship at Agora, I: 
+        During my internship at Agora, I
       - Integrated the MongoDB database into video coding testing system and deployed the database on the remote server, made
       use of PyMongo to update data, avoided redundant execution of tests, accelerated the workflow of testing by 40% among
       20000+ test series.
