@@ -180,7 +180,7 @@ params:
         companyUrl: "https://www.agora.io/en/"
         date: "Jun 2023 - Jul 2023"
         featuredLink:
-          enable: false
+          enable: true
           name: "View credentials"
           url: "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:4df1d9c8-1d31-34e2-baea-e2927e11e890"
         content: |
