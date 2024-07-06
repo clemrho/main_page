@@ -181,49 +181,20 @@ params:
         date: "Jun 2023 - Jul 2023"
         featuredLink:
           enable: false
-          name: "View credential"
-          url: "https://example.com"
-        content: "
-        - Integrated the MongoDB database into video coding testing system and deployed the database on the remote server, made
+          name: "View credentials"
+          url: "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:4df1d9c8-1d31-34e2-baea-e2927e11e890"
+        content: |
+        During my internship at Agora, I: 
+      - Integrated the MongoDB database into video coding testing system and deployed the database on the remote server, made
       use of PyMongo to update data, avoided redundant execution of tests, accelerated the workflow of testing by 40% among
       20000+ test series.
-        - Wrote python scripts to extract data from the database, using Pandas to load them into excel files and analyzed these data
+      - Wrote python scripts to extract data from the database, using Pandas to load them into excel files and analyzed these data
       by numpy, calculated the variance of running cycles over 3000 performance series and controlled their fluctuations within
       0.05% variance of the mean cycle.
       - Restructured the sequences of the test system, first ran 15% of the series, then ran the rest according to the performance of
         the first part, effectively reducing 85% of the useless running cycle.
-        "
-        
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+  
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
 
       - job: "UI/UX Designer"
         company: "Netflix"
@@ -238,11 +209,6 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
