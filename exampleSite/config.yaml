@@ -118,9 +118,9 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: false
+      disableProjects: true
       disableAchievements: true
-      disableContact: false
+      disableContact: true
 
   # Hero
   hero:
@@ -251,7 +251,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -321,11 +321,9 @@ params:
       enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/clemrho
+      linkedin: https://linkedin.com/clemrho
+      instagram: https://instagram.com/clementlu_1226
 
   # List pages like blogs and posts
   listPages:
