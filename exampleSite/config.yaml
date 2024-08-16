@@ -1,6 +1,6 @@
 baseURL: "https://yanzelu.netlify.app"
 languageCode: "en-us"
-title: "Ce-Page: Yanze's Personal Website"
+title: "Yanze's Personal Website"
 theme: hugo-profile
 
 outputs:
@@ -127,8 +127,8 @@ params:
     enable: true
     intro: ""
     title: "Yanze Lu"
-    subtitle: "CS student @ UIUC, developer, researcher"
-    content: ""
+    subtitle: "STAT & CS @ UIUC"
+    content: "software developer, researcher"
     image: /images/gene.svg
     bottomImage:
       enable: true
