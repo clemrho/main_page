@@ -125,10 +125,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: ""
+    intro: "Computer Science and Statistics Major"
     title: "Yanze Lu"
-    subtitle: "STAT & CS @ UIUC"
-    content: "software developer, researcher"
+    subtitle: " University of Illinois Urbana-Champaign"
+    content: "junior student, software developer, machine learning researcher"
     image: /images/gene.svg
     bottomImage:
       enable: true
